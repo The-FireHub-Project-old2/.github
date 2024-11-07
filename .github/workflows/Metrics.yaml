@@ -115,20 +115,6 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers, sponsors, members, thanks
           # plugin_people_thanks:
-      - name: Update sponsors
-        uses: lowlighter/metrics@latest
-        with:
-          output_action: commit
-          retries: 1
-          retries_delay: 10
-          committer_branch: master
-          committer_message: "Update sponsors metrics"
-          template: classic
-          filename: resources/graphics/images/metrics/sponsors.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_title: Sponsor Us!
       - name: Update stargazers
         uses: lowlighter/metrics@latest
         with:
