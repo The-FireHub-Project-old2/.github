@@ -143,3 +143,17 @@ jobs:
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_days: 0
+      - name: Update projects
+        uses: lowlighter/metrics@latest
+        with:
+          output_action: commit
+          retries: 1
+          retries_delay: 10
+          committer_branch: master
+          committer_message: "Update projects metrics"
+          template: classic
+          filename: resources/graphics/images/metrics/projects.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_projects: yes
+          plugin_projects_descriptions: yes
