@@ -30,11 +30,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop-pre-alpha-m1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf1e92a</div>
-                                        <div class="message">Changed treatPhpDocTypesAsCertain to false</div>
+                                        <div class="sha">#cddbbbf</div>
+                                        <div class="message">Added T_ARRAY and T_STRING as exclude in native_constant_invocation</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 12:01:02</div>
+                                <div class="timestamp">19 Nov 2024, 13:42:50</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -52,11 +52,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop-alpha</span></div>
                                     <div class="commit">
-                                        <div class="sha">#22883fd</div>
-                                        <div class="message">Changed treatPhpDocTypesAsCertain to false</div>
+                                        <div class="sha">#f38b203</div>
+                                        <div class="message">Added T_ARRAY and T_STRING as exclude in native_constant_invocation</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 12:00:57</div>
+                                <div class="timestamp">19 Nov 2024, 13:42:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -74,11 +74,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop-pre-alpha-m1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5efd39d</div>
-                                        <div class="message">Update version (#8)</div>
+                                        <div class="sha">#8db6ecb</div>
+                                        <div class="message">Create DataIs low-level proxy class (#8)</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 11:14:48</div>
+                                <div class="timestamp">19 Nov 2024, 13:27:30</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -96,11 +96,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop-pre-alpha-m1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6d26299</div>
-                                        <div class="message">Create a Number list of constants (#8)</div>
+                                        <div class="sha">#bb8e9b8</div>
+                                        <div class="message">Created rules for TooManyMethods and TooManyPublicMethods</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 11:12:35</div>
+                                <div class="timestamp">19 Nov 2024, 13:23:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -118,11 +118,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop-pre-alpha-m1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4634dfb</div>
-                                        <div class="message">Update Exception logic (#8)</div>
+                                        <div class="sha">#f3b364c</div>
+                                        <div class="message">Updated PHPMD BooleanArgumentFlag rule namespace</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 07:59:35</div>
+                                <div class="timestamp">19 Nov 2024, 12:45:11</div>
                             </section>
                         </div>
                     </section>
