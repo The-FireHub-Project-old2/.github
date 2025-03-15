@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="204" class="">
     <defs>
         <style/>
     </defs>
@@ -24,14 +24,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 154kb of code in 148 edited files across 294 commits over last 14 days</small>
+                <small>estimation from 163kb of code in 153 edited files across 304 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.43223895334484" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="459.43223895334484" y="0" width="0.5677610466551468" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.49523243051" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="457.49523243051" y="0" width="1.9688375715135424" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.46407000202356" y="0" width="0.5359299979764657" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,9 +44,22 @@
                                 SVG
                             </div>
                             <small>
-                                <div>2.26k lines</div>
-                                <div>153 kB</div>
-                                <div>99.88%</div>
+                                <div>2.39k lines</div>
+                                <div>162 kB</div>
+                                <div>99.46%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Hack
+                            </div>
+                            <small>
+                                <div>8 lines</div>
+                                <div>698 bytes</div>
+                                <div>0.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
