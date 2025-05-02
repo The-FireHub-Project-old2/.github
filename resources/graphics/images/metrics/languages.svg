@@ -24,15 +24,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 448kb of code in 302 edited files across 324 commits over last 14 days</small>
+                <small>estimation from 473kb of code in 343 edited files across 340 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.1446576125421" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="192.1446576125421" y="0" width="188.50593548992072" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="380.65059310246284" y="0" width="79.34940689753716" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.47823009223552" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="184.47823009223552" y="0" width="183.79296136250778" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="368.2711914547433" y="0" width="91.72880854525668" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -44,9 +44,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>7.66k lines</div>
-                                <div>187 kB</div>
-                                <div>41.77%</div>
+                                <div>7.78k lines</div>
+                                <div>189 kB</div>
+                                <div>40.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -57,9 +57,9 @@
                                 SVG
                             </div>
                             <small>
-                                <div>2.65k lines</div>
-                                <div>183 kB</div>
-                                <div>40.98%</div>
+                                <div>2.74k lines</div>
+                                <div>189 kB</div>
+                                <div>39.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -70,9 +70,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>3.05k lines</div>
-                                <div>77.2 kB</div>
-                                <div>17.25%</div>
+                                <div>3.75k lines</div>
+                                <div>94.3 kB</div>
+                                <div>19.94%</div>
                             </small>
                         </div>
                     </section>
