@@ -24,29 +24,29 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 272kb of code in 358 edited files across 372 commits over last 14 days</small>
+                <small>estimation from 706kb of code in 655 edited files across 436 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.3446199045171" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="253.3446199045171" y="0" width="138.61828865222182" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="391.9629085567389" y="0" width="68.0370914432611" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.27087302318006" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="231.27087302318006" y="0" width="124.74232820345752" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="356.0132012266376" y="0" width="103.98679877336241" height="8" fill="#ff9900"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff9900" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                SVG
+                                PHP
                             </div>
                             <small>
-                                <div>2.56k lines</div>
-                                <div>149 kB</div>
-                                <div>55.07%</div>
+                                <div>12.9k lines</div>
+                                <div>354 kB</div>
+                                <div>50.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -57,22 +57,22 @@
                                 Hack
                             </div>
                             <small>
-                                <div>2.88k lines</div>
-                                <div>82 kB</div>
-                                <div>30.13%</div>
+                                <div>7.18k lines</div>
+                                <div>191 kB</div>
+                                <div>27.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff9900" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PHP
+                                SVG
                             </div>
                             <small>
-                                <div>1.39k lines</div>
-                                <div>40.2 kB</div>
-                                <div>14.79%</div>
+                                <div>2.60k lines</div>
+                                <div>159 kB</div>
+                                <div>22.61%</div>
                             </small>
                         </div>
                     </section>
