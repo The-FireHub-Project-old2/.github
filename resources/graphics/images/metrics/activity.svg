@@ -22,19 +22,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
+                                        <div class="user">dieselxxx</div>
                                         pushed 1 commit in
-                                        <span class="repo">The-FireHub-Project/the-firehub-project.github.io</span>
+                                        <span class="repo">The-FireHub-Project/Core</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">develop-pre-alpha-m1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2372aeb</div>
-                                        <div class="message">Update languages metrics</div>
+                                        <div class="sha">#7c530eb</div>
+                                        <div class="message">Ready for new data structure refactor (#18)</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jun 2025, 23:51:13</div>
+                                <div class="timestamp">13 Jun 2025, 09:00:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -52,11 +52,33 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#95bd781</div>
+                                        <div class="sha">#065eb14</div>
+                                        <div class="message">Update languages metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">12 Jun 2025, 23:50:36</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">The-FireHub-Project/the-firehub-project.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#38180cd</div>
                                         <div class="message">Update base metrics</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jun 2025, 23:50:23</div>
+                                <div class="timestamp">12 Jun 2025, 23:49:54</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -74,11 +96,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4cd33c9</div>
+                                        <div class="sha">#3db062d</div>
                                         <div class="message">Update languages metrics</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jun 2025, 23:44:41</div>
+                                <div class="timestamp">12 Jun 2025, 23:43:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -96,33 +118,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docs</span></div>
                                     <div class="commit">
-                                        <div class="sha">#52ac86a</div>
+                                        <div class="sha">#cd42ca6</div>
                                         <div class="message">Update followup metrics</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jun 2025, 23:44:26</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">The-FireHub-Project/Core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">docs</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#08844cf</div>
-                                        <div class="message">Update activity metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Jun 2025, 23:43:56</div>
+                                <div class="timestamp">12 Jun 2025, 23:43:46</div>
                             </section>
                         </div>
                     </section>
