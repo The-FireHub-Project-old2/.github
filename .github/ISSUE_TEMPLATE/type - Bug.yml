@@ -12,6 +12,14 @@ body:
         - FireHub Skeleton
     validations:
       required: true
+  - type: input
+    id: prevalence
+    attributes:
+      label: Bug prevalence
+      description: "How often do you or others encounter this bug?"
+      placeholder: "Whenever I visit the user account page."
+    validations:
+      required: false
   - type: checkboxes
     id: exist
     attributes:
